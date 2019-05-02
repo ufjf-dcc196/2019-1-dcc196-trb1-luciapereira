@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trabalho1</string>
+    <string name="txtBem">Bem vindo</string>
+    <string name="titulo">Quem Academy</string>
+    <string name="btnCadastro">Novo Planejamento</string>
+    <string name="BtnInserir">Cadastrar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnSair">Sair</string>
+    <string name="txtArea">Area:</string>
+    <string name="txtAno">Ano:</string>
+    <string name="txtSemestre">Semestre:</string>
+    <string name="txt_Porc">Porcentagem:</string>
+    <string name="edtArea">Informe a area:</string>
+    <string name="edtAno" />
+    <string name="edtPorce" />
+    <string name="edtSemestre" />
+</resources>
