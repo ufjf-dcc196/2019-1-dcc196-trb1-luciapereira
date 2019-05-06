@@ -7,11 +7,19 @@
     <string name="btnCancelar">Cancelar</string>
     <string name="btnSair">Sair</string>
     <string name="txtArea">Area:</string>
-    <string name="txtAno">Ano:</string>
-    <string name="txtSemestre">Semestre:</string>
     <string name="txt_Porc">Porcentagem:</string>
     <string name="edtArea">Informe a area:</string>
     <string name="edtAno" />
     <string name="edtPorce" />
     <string name="edtSemestre" />
+    <string name="txtNovaDisc">Disciplina</string>
+    <string name="txtPorcentagem">Porcentagem da Area:</string>
+    <string name="editDisciplinas" />
+    <string name="editAno" />
+    <string name="editSemestre" />
+    <string name="editPorcentagem" />
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="txtAno">Ano:</string>
+    <string name="txtSemestre">Semestre:</string>
+
 </resources>
